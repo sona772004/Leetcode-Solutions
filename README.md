@@ -14,7 +14,7 @@ This repository contains my personal solutions to problems on [LeetCode](https:/
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 05   |
+| Easy       | 06   |
 | Medium     | 06  |
 | Hard       | 05    |
 
